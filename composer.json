@@ -1,13 +1,13 @@
 {
-    "name": "funson86/yii2-blog",
+    "name": "tadasshi/yii2-responsive-blog",
     "description": "Yii2 Blog for other application",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension","blog","responsible"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Funson Lee",
-            "email": "funson86@gmail.com"
+            "name": "Thiago Tadashi",
+            "email": "tadasshi@gmail.com"
         }
     ],
     "require": {
